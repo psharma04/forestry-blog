@@ -7,10 +7,11 @@ bio: I’m a year 12 student at St Marks Catholic College. I specialise in theor
   the Stuxnet Malware.
 avatar: "/images/avatar.png"
 social:
-- title: Twitter
+- title: twitter
   url: https://twitter.com/hyperboliccyan
-- title: Instagram
+- title: instagram
   url: https://instagram.com/hyperbolicpurple
 featured: true
+draft: true
 
 ---
