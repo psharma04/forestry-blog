@@ -12,6 +12,5 @@ social:
 - title: instagram
   url: https://instagram.com/hyperbolicpurple
 featured: true
-draft: true
 
 ---
