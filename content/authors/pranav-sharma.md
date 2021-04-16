@@ -5,7 +5,7 @@ bio: I’m a year 12 student at St Marks Catholic College. I specialise in theor
   I am currently employed as a Network Administrator at Sydney Water, and do graphics
   design under the Heimdall Studios banner. My latest project was a website analyzing
   the Stuxnet Malware.
-avatar: ''
+avatar: "/images/avatar.png"
 social:
 - title: Schoolnotes Portal
   url: https://schoolnotes.xyz
